@@ -83,15 +83,15 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 [3]: https://stackoverflow.com/questions/tagged/lightningchart
 [4]: https://www.arction.com/support-services/
 
-[AutoCursorModes]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/enums/autocursormodes.html
-[Axis]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/axis.html
-[AxisScrollStrategies]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/globals.html#axisscrollstrategies
-[ChartXY]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/chartxy.html
-[ColorPalettes]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/globals.html#colorpalettes
-[ColorRGBA]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/globals.html#colorrgba
-[emptyFill]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/globals.html#emptyfill
-[emptyLine]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/globals.html#emptyline
-[RectangleSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/rectangleseries.html
-[SolidFill]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/solidfill.html
-[UIElementBuilders]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/globals.html#uielementbuilders
-[UIOrigins]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/globals.html#uiorigins
+[AutoCursorModes]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/enums/autocursormodes.html
+[Axis]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/axis.html
+[AxisScrollStrategies]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/globals.html#axisscrollstrategies
+[ChartXY]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/chartxy.html
+[ColorPalettes]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/globals.html#colorpalettes
+[ColorRGBA]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/globals.html#colorrgba
+[emptyFill]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/globals.html#emptyfill
+[emptyLine]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/globals.html#emptyline
+[RectangleSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/rectangleseries.html
+[SolidFill]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/solidfill.html
+[UIElementBuilders]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/globals.html#uielementbuilders
+[UIOrigins]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/globals.html#uiorigins
